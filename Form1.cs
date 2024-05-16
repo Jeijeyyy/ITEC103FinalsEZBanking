@@ -16,5 +16,10 @@ namespace ITEC103FinalsEZBanking
         {
             InitializeComponent();
         }
+
+        private void mpinLabel_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
